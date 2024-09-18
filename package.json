@@ -1,0 +1,15 @@
+{
+  "name": "desafio2-dw4",
+  "version": "1.0.0",
+  "description": "Desafio 2",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Isabella",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
